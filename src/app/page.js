@@ -1,5 +1,6 @@
 import Banner from "@/componentZ/Banner";
 import Expert from "@/componentZ/Expert";
+import FreeConsans from "@/componentZ/FreeConsans";
 import Information from "@/componentZ/Information";
 import Lawyer from "@/componentZ/Lawyer";
 import Numberz from "@/componentZ/Numberz";
@@ -27,6 +28,7 @@ export default function Home() {
         <Lawyer></Lawyer>
         <Video></Video>
         <Review></Review>
+        <FreeConsans></FreeConsans>
 
 
 
