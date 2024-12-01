@@ -1,4 +1,5 @@
 import Banner from "@/componentZ/Banner";
+import Expert from "@/componentZ/Expert";
 import Information from "@/componentZ/Information";
 
 export const metadata = {
@@ -14,6 +15,7 @@ export default function Home() {
 
         <Banner></Banner>
         <Information></Information>
+        <Expert></Expert>
 
 
 

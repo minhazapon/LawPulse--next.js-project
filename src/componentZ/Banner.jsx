@@ -13,10 +13,10 @@ const Banner = () => {
         }}>
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content ">
-        <div className=" mt-24 flex justify-center items-center gap-14 flex-col md:flex-row lg:flex-row">
-        <div>
+        <div className=" mt-24 ">
+        {/* <div>
         <Image className=" rounded-2xl " src={banner} alt="banner" width={500} height={400} />
-        </div>
+        </div> */}
         <div>
         <p className=" text-6xl font-serif text-white  ">Law Pulse Firm</p>
         <p className=" mt-5 text-xl text-white font-serif ">Injustice anywhere is a threat to justice everywhere
