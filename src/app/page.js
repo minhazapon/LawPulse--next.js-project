@@ -1,6 +1,7 @@
 import Banner from "@/componentZ/Banner";
 import Expert from "@/componentZ/Expert";
 import Information from "@/componentZ/Information";
+import Lawyer from "@/componentZ/Lawyer";
 import Numberz from "@/componentZ/Numberz";
 import Story from "@/componentZ/Story";
 
@@ -21,6 +22,7 @@ export default function Home() {
         <Expert></Expert>
         <Numberz></Numberz>
         <Story></Story>
+        <Lawyer></Lawyer>
 
 
 
