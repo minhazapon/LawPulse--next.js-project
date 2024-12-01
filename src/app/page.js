@@ -1,6 +1,9 @@
 import Banner from "@/componentZ/Banner";
 import Expert from "@/componentZ/Expert";
 import Information from "@/componentZ/Information";
+import Numberz from "@/componentZ/Numberz";
+import Story from "@/componentZ/Story";
+
 
 export const metadata = {
   title: "Home",
@@ -16,6 +19,8 @@ export default function Home() {
         <Banner></Banner>
         <Information></Information>
         <Expert></Expert>
+        <Numberz></Numberz>
+        <Story></Story>
 
 
 
