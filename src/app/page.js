@@ -4,6 +4,7 @@ import Information from "@/componentZ/Information";
 import Lawyer from "@/componentZ/Lawyer";
 import Numberz from "@/componentZ/Numberz";
 import Story from "@/componentZ/Story";
+import Video from "@/componentZ/Video";
 
 
 export const metadata = {
@@ -23,6 +24,7 @@ export default function Home() {
         <Numberz></Numberz>
         <Story></Story>
         <Lawyer></Lawyer>
+        <Video></Video>
 
 
 
