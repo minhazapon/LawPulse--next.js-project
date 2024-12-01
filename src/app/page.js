@@ -1,4 +1,5 @@
 import Banner from "@/componentZ/Banner";
+import Case from "@/componentZ/Case";
 import Expert from "@/componentZ/Expert";
 import FreeConsans from "@/componentZ/FreeConsans";
 import Information from "@/componentZ/Information";
@@ -29,6 +30,7 @@ export default function Home() {
         <Video></Video>
         <Review></Review>
         <FreeConsans></FreeConsans>
+        <Case></Case>
 
 
 
