@@ -3,6 +3,12 @@ import Banner from "./Banner";
 
 
 
+export const metadata = {
+    title: "lawpulse -- case study",
+    description: "lawpulse -- case study",
+  };
+
+
 const page = () => {
 
     return (

@@ -14,7 +14,6 @@ const Nav = () => {
      <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/aboutPage" >PAGES</Link></li>
      <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/practice" >PRACTICE AREAS</Link></li>
      <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/case" >CASE STUDY</Link></li>
-     <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/blog" >BLOG</Link></li>
      <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/shop" >SHOP</Link></li>
    
    
