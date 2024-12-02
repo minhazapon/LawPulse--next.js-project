@@ -11,11 +11,11 @@ const Nav = () => {
 
    const nav = <>
    
-     <li className=" text-xs text-white  " ><Link href="/page" >PAGES</Link></li>
-     <li className=" text-xs text-white  " ><Link href="/practice" >PRACTICE AREAS</Link></li>
-     <li className=" text-xs text-white  " ><Link href="/case" >CASE STUDY</Link></li>
-     <li className=" text-xs text-white  " ><Link href="/blog" >BLOG</Link></li>
-     <li className=" text-xs text-white  " ><Link href="/shop" >SHOP</Link></li>
+     <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/aboutPage" >PAGES</Link></li>
+     <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/practice" >PRACTICE AREAS</Link></li>
+     <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/case" >CASE STUDY</Link></li>
+     <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/blog" >BLOG</Link></li>
+     <li className=" text-xs text-[#ff8f4f] font-serif font-bold hover:border-[1px] border-cyan-400  " ><Link href="/shop" >SHOP</Link></li>
    
    
    
@@ -53,7 +53,7 @@ const Nav = () => {
             </div>
             <div className=" ml-6 flex items-center gap-2  ">
             <Image src={logo} width={30} height={30} alt="" />
-            <a className=" text-xl text-white ">LawPluse</a>
+            <a className=" text-xl text-[#ff8f4f] ">LawPluse</a>
             </div>
            
           </div>
